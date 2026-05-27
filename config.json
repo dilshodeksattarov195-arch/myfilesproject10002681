@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyponnect",
+        "uuid": 16667777,
+        "checksum": "z7zht9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
